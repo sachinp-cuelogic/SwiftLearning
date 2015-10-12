@@ -9,5 +9,5 @@
 import Foundation
 
 
-let SERVER_URL  = "http://localhost/photoGallery"
+let SERVER_URL  = "http://192.168.10.104"
 let SERVICE_PATH = "/imageData.php"
